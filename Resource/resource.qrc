@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="image">
+    <file>bg-login.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>bell.svg</file>
+    <file>refresh-ccw (1).svg</file>
+    <file>log-out.svg</file>
+    <file>filter.svg</file>
+    <file>plus.svg</file>
+    <file>plus.svg</file>
+    <file>chevron-down.svg</file>
+    <file>chevron-up.svg</file>
+    <file>dollar-sign.svg</file>
+    <file>edit.svg</file>
+    <file>credit-card.svg</file>
+    <file>user.svg</file>
+    <file>square.svg</file>
+    <file>copy.svg</file>
+    <file>minus.svg</file>
+    <file>eye_bl.svg</file>
+    <file>eye-off_bl.svg</file>
+    <file>x_bl.svg</file>
+    <file>search.svg</file>
+    <file>eye.svg</file>
+    <file>eye-off.svg</file>
+    <file>target.svg</file>
+    <file>bar-chart.svg</file>
+    <file>edit.svg</file>
+    <file>settings.svg</file>
+    <file>chevron-left.svg</file>
+    <file>bar-chart-2.svg</file>
+    <file>clipboard.svg</file>
+    <file>x.svg</file>
+    <file>maximize.svg</file>
+    <file>minimize-2.svg</file>
+    <file>align-justify.svg</file>
+  </qresource>
+</RCC>
