@@ -31,3 +31,19 @@
 - **PyQt5** – For GUI development
 - **SQLite** – Local database storage
 - **Qt Designer** – For UI layout
+
+---
+
+## 🚀 How to install the dependencies of the project
+
+Run this command in the terminal:
+
+```bash
+pip install -r requirements.txt
+
+---
+
+## 📫 Contact
+If you have any feedback, suggestions, or questions, feel free to reach out:
+📧 Email: Haovoanh2005@gmail.com
+🔗 Linkedin: https://www.linkedin.com/in/h%C3%A0o-v%C3%B5-anh-58019635b/
